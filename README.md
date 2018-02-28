@@ -1,2 +1,2 @@
 # hello-world
-this is my first repository
+# i am making changes to read me
